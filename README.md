@@ -1,4 +1,5 @@
-# A simple todo-app to practice svelte with AWS Appsync backend.
+# svelte-todo
+## A simple todo-app to practice svelte with AWS Appsync backend.
 
 ![svelte todolist](svelte-todo.gif)
 
